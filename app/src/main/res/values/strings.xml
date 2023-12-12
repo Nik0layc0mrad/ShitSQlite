@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SqLite_Page_of_registration</string>
+    <string name="First">Создайте аккаунт</string>
+    <string name="login_user">Введите логин</string>
+    <string name="login_email">Введите Email</string>
+    <string name="login_password">Введите Пароль</string>
+    <string name="buttonTextLogin">Создать профиль</string>
+</resources>

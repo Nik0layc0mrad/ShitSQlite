@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backAppRegistration">#293133</color>
+    <color name="textColor">#FFFAFA</color>
+    <color name="backgroung_graphs">#D5D5D5</color>
+    <color name="button_of_registration_color">#911E42</color>
+
+</resources>
